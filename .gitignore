@@ -17,3 +17,10 @@
 /yarn-error.log
 
 .byebug_history
+
+#ignore node modules
+node_modules
+
+#ignore bundle
+bundle.js
+bundle.js.map
